@@ -120,20 +120,13 @@ This collection of coding exercises focuses on JavaScript, Node and NPM modules,
 
 ### 2 - Modules
 
-| Topics | Code                           | Videos    | Length |
-| ------ | ------------------------------ | --------- | -----: |
-|        | [](/tutorials/02-modules/.../) | [Demo]()  |        |
-|        |                                | **TOTAL** |        |
+_Coming soon!_
 
 ---
 
 ### 3 - Unit Testing
 
-| Topics                  | Code                                | Videos    | Length |
-| ----------------------- | ----------------------------------- | --------- | -----: |
-| Unit Testing with Jest  | [](/tutorials/03-unit-testing/.../) | [Demo]()  |        |
-| Test-Driven Development | [](/tutorials/03-unit-testing/.../) | [Demo]()  |        |
-|                         |                                     | **TOTAL** |        |
+_Coming soon!_
 
 ---
 
