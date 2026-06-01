@@ -26,7 +26,7 @@ class Player {
 	// We make 'weapon' optional by giving it a default string value using '='
 	constructor(playerName, weapon = "Wooden Staff") {
 		this.name = playerName;
-		this.equippedWeapon = weapon;
+		this.weapon = weapon;
 
 		// Hardcoded properties: No parameters needed.
 		// Every player starts identically here.
@@ -43,8 +43,8 @@ const warrior = new Player("Arthur", "Iron Sword");
 // Player 2: We omit the second argument entirely
 const wizard = new Player("Merlin");
 
-console.log(`${warrior.name} enters the match carrying an ${warrior.equippedWeapon}!`);
+console.log(`${warrior.name} enters the match carrying an ${warrior.weapon}!`);
 console.log(`Current Status: Level ${warrior.level}.`);
 
-console.log(`\n${wizard.name} enters the match carrying a ${wizard.equippedWeapon}!`);
+console.log(`\n${wizard.name} enters the match carrying a ${wizard.weapon}!`);
 console.log(`Current Status: Level ${wizard.level}.`);

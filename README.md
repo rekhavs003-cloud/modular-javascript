@@ -106,7 +106,7 @@ This collection of coding exercises focuses on JavaScript, Node and NPM modules,
 | Advanced Properties & Default Values | [advanced-properties](/tutorials/01-classes/advanced-properties/)   | [Demo]()  |        |
 | Class Methods & Memory Scope         | [class-methods](/tutorials/01-classes/class-methods/)               | [Demo]()  |        |
 | Inheritance Basics                   | [inheritance-basics](/tutorials/01-classes/inheritance-basics/)     | [Demo]()  |        |
-| Deep Inheritance Chains              | [deep-inheritance](/tutorials/01-classes/deep-inheritance/)         | [Demo]()  |        |
+| Deep Inheritance                     | [deep-inheritance](/tutorials/01-classes/deep-inheritance/)         | [Demo]()  |        |
 | Polymorphism                         | [polymorphism](/tutorials/01-classes/polymorphism/)                 | [Demo]()  |        |
 |                                      |                                                                     | **TOTAL** |        |
 
