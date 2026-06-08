@@ -1,4 +1,4 @@
-/**** UNIT TESTING BASICS: PRACTICE ****/
+/**** UNIT TESTING BASICS: PRACTICE SOLUTION ****/
 
 /*
     Practice writing clean test definitions and applying the correct 

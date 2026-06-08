@@ -1,3 +1,5 @@
+/**** UNIT TESTING BASICS ****/
+
 // JEST TEST FILE: We import the functions we want to inspect
 import { calculateCombinedPower, getStarterSpells } from "../partyUtils.js";
 
