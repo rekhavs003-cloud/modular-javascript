@@ -1,0 +1,14 @@
+/**** UNIT TESTING BASICS: PRACTICE ****/
+
+/** EXERCISE 2: DEBUGGING INVENTORY ARRAY MATCHERS **/
+
+import { generateStarterKit } from "../armory.js";
+
+test("generateStarterKit creates a complete physical gear list", () => {
+    const kit = generateStarterKit();
+
+    // TODO: Use the correct matcher for a deep equality comparison
+    
+    // TODO: Use the correct matcher for a partial check
+    
+});
